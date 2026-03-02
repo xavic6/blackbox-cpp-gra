@@ -1,33 +1,29 @@
-# Binarki i obiekty kompilacji
+# Binarki C++
+blackbox*
+blackbox.exe
 *.exe
 *.o
 *.obj
+a.out
 *.so
 *.dll
-blackbox
-blackbox.exe
-a.out
 
-# Windows-specific
+# Windows
 Thumbs.db
 Desktop.ini
-$DSS_Store
+.DS_Store
 
-# IDE i edytory
+# IDE/Edytory
 .vscode/
 .idea/
 *.swp
-*.swo
 *~
-
-# Logi i tymczasowe
 *.log
-*.tmp
 
-# Kompilatory online
+# Debug
 core
 vgcore.*
 
-# Makefile
-Makefile
-makefile
+# OS generowane
+ehthumbs.db
+ehthumbs_vi.db
