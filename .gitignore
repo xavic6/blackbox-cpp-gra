@@ -1,0 +1,33 @@
+# Binarki i obiekty kompilacji
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+blackbox
+blackbox.exe
+a.out
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+$DSS_Store
+
+# IDE i edytory
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logi i tymczasowe
+*.log
+*.tmp
+
+# Kompilatory online
+core
+vgcore.*
+
+# Makefile
+Makefile
+makefile
