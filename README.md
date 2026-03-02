@@ -46,6 +46,8 @@ ZAWARTOŚĆ REPO
 --------------
 ├── blackbox.cpp          # Główny plik zródlony gry
 ├── README.md             # Dokumentacja
+├── LICENSE               # Licencja
+├── .gitignore            # Czyste repo
 └── screenshots/          # Zruty ekranu plansz/menu
 
 ŹRÓDŁA I SPECYFIKACJA
